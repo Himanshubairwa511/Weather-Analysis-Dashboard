@@ -4,6 +4,10 @@ A Power BI dashboard for visualizing global weather data, including temperature,
 # 🌦️ Weather Analysis Report (2012–2016)
 This repository contains a Power BI dashboard that visualizes historical weather data for cities from 2012 to 2016. The visual design focuses on delivering key environmental metrics for decision-makers, researchers, and analysts. The featured sample in this dashboard highlights Atlanta, United States, with interactive filtering by City, Month, Season, and Year.
 
+![image](https://github.com/user-attachments/assets/abfa636b-b031-4acb-ad06-ed08024eca22)
+![image](https://github.com/user-attachments/assets/49b7799c-8d0e-41db-9543-6361c11b9c86)
+![image](https://github.com/user-attachments/assets/47102497-ecef-4cae-bf06-7cbdb0f734c3)
+
 📊 Dashboard Features
 ✅ Key Metrics:
 Average Temperature (°F) -
@@ -32,19 +36,19 @@ City and Country Cards – Highlights the selected city and its location
 ![image](https://github.com/user-attachments/assets/478f5281-ee86-446b-8ecc-c9a32a979af6)
 
 🧭 Gauges for Pressure and Wind Speed – Real-time indicators of average environmental conditions
-![image](https://github.com/user-attachments/assets/229a8df6-0277-4601-a185-6a18f312dc9f)
+![image](https://github.com/user-attachments/assets/137ea50e-22c9-42d0-b781-33de873d4a8b)
+
 
 🗺️ Geo Map – Visualizes the intensity of strong wind events and average temperature by location
+![image](https://github.com/user-attachments/assets/d613f8c5-1c09-4000-a273-474a818a7cb6)
 
 🔎 Filtering Capabilities:
 The report includes dynamic slicers for:
 
 City
-
 Month
-
 Season
-
 Year
+![image](https://github.com/user-attachments/assets/0c104bae-6551-450c-8023-60d29d8a5fd5)
 
 Changing these filters updates all visuals in real-time, allowing users to focus on specific weather conditions or time frames.
