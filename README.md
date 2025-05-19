@@ -11,18 +11,23 @@ This repository contains a Power BI dashboard that visualizes historical weather
 📊 Dashboard Features
 ✅ Key Metrics:
 Average Temperature (°F) -
+
 ![image](https://github.com/user-attachments/assets/340648a8-befb-468c-90a5-a21b6228eb8f)
 
 Maximum & Minimum Temperature - 
+
 ![image](https://github.com/user-attachments/assets/2dbadfe7-a059-4823-a828-18b94c1736b4)
 
 Average Humidity (%)
+
 ![image](https://github.com/user-attachments/assets/8efefc3e-46cb-4066-bfe2-773c39357461)
 
 Average Pressure (hPa)
+
 ![image](https://github.com/user-attachments/assets/9685c08a-36fb-4cca-8a33-46faee06f58a)
 
 Average Wind Speed (km/h)
+
 ![image](https://github.com/user-attachments/assets/5a9d55dd-c9d1-4c0e-a999-fd6a78e55d73)
 
 📍 Visuals Included:
