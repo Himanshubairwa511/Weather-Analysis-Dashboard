@@ -5,7 +5,9 @@ A Power BI dashboard for visualizing global weather data, including temperature,
 The following components of this project are available under the Releases section due to large file sizes that exceed GitHub's direct file upload limits:
 
 ○   weather-report-dashboard – Version 3.1
+
 ○   EDA Question Solutions – Version 1.0
+
 ○   Power BI Questions Solution – Version 2.0
      Please visit the Releases tab to download and explore these files.
 
