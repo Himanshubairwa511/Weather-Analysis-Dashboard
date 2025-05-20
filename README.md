@@ -1,6 +1,14 @@
 # Weather-Analysis-Dashboard
 A Power BI dashboard for visualizing global weather data, including temperature, humidity, wind speed/direction, and pressure. Features interactive maps, time-series trends, heatmaps, and KPI indicators. Built for analytical insights by city, region, season, and time.
 
+📌 Note:
+The following components of this project are available under the Releases section due to large file sizes that exceed GitHub's direct file upload limits:
+
+○   weather-report-dashboard – Version 3.1
+○   EDA Question Solutions – Version 1.0
+○   Power BI Questions Solution – Version 2.0
+     Please visit the Releases tab to download and explore these files.
+
 # 🌦️ Weather Analysis Report (2012–2016)
 This repository contains a Power BI dashboard that visualizes historical weather data for cities from 2012 to 2016. The visual design focuses on delivering key environmental metrics for decision-makers, researchers, and analysts. The featured sample in this dashboard highlights Atlanta, United States, with interactive filtering by City, Month, Season, and Year.
 
